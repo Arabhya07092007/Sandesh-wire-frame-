@@ -1,5 +1,3 @@
-# Sandesh-wire-frame-
-
 #                                                            Sandesh
 
 ###                                                                                                                                      The Messaging app 
