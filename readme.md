@@ -24,17 +24,9 @@ The switch navigator will have these  following screens →
 
 6.Search Screen : Here the user can add some other users Simply just by searching the the desired username of the another person. If the searched username exists in the database then there will be some field at the search screen and If the user wants to chat with searched user then he just have to click on that result field and then he would be directed to chat screen.
 
-<img src="D:\React native\Sandesh 2\ScreenShots\img1.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img2.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img3.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img4.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img5.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img6.jpeg" style="zoom:25%;" />
-
-<img src="D:\React native\Sandesh 2\ScreenShots\img7.jpeg" style="zoom:25%;" />
+<p>
+  <img src="https://github.com/Arabhya07092007/Spectagram-stage-4/blob/main/assets/img%201.jpeg?raw=true" width="250" name="Spectagram feed screen"/>
+  <img src="https://github.com/Arabhya07092007/Spectagram-stage-4/blob/main/assets/img%202.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
+  <img src="https://github.com/Arabhya07092007/Spectagram-stage-4/blob/main/assets/img%203.jpeg?raw=true" width="250" name="post screen"/>
+</p>
 
