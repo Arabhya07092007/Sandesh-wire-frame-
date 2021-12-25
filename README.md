@@ -30,12 +30,13 @@ The switch navigator will have these  following screens →
   <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img1.jpeg?raw=true" width="250" name="Spectagram feed screen"/>
   <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img2.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
   <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img3.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
-  <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img4.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
 </p>
 
 <p>
+  
+  <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img4.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
   <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img5.jpeg?raw=true" width="250" name="Spectagram feed screen"/>
   <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img6.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
-  <img src="https://github.com/Arabhya07092007/Sandesh-wire-frame-/blob/main/img7.jpeg?raw=true" width="250" name="Spectagram create post screen"/>
+
 </p>
 
